@@ -1,16 +1,2 @@
 
-function foo1() {
-
-    console.log("main.js-rama luis");
-  
-    
-
-}
-function foo2() {
-
-    console.log("main.js-rama luis");
-  
-    
-
-}
-
+ $('#contenido').prepend('<h1> Este es un elemento al principio</h1>');
