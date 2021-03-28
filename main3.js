@@ -1,1 +1,6 @@
-main3
+function foo() {
+
+    console.log("main3");
+  
+
+}

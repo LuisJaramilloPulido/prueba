@@ -1,2 +1,6 @@
+function foo() {
 
-main2
+    console.log("main2");
+  
+}
+
