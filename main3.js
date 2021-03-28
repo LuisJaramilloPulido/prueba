@@ -1,6 +1,4 @@
-function foo2() {
+$(document).ready(function(){
 
-    console.log("main3.js-rama luis");
-  
-
-}
+    fafadfa;
+});

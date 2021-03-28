@@ -1,9 +1,2 @@
 
-function foo() {
-
-    console.log("main.js-rama luis");
-    console.log("main.js-rama Alberto");
-    
-
-}
-
+ $('#contenido').prepend('<h1> Este es un elemento al principio</h1>');

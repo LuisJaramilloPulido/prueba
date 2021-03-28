@@ -1,6 +1,3 @@
-function foo2() {
-
-    console.log("main2.js-rama luis");
-  
-
-}
+$('#h1-id').addClass('text-danger');
+/*eliminar clase a un elemento*/
+$('#h1-id').removeClass('h1-class');
