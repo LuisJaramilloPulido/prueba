@@ -1,6 +1,6 @@
 function foo() {
 
-    console.log("main2");
+    console.log("hola main2");
   
 }
 
