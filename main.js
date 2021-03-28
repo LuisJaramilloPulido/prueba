@@ -1,8 +1,15 @@
 
-function foo() {
+function foo1() {
 
     console.log("main.js-rama luis");
-    console.log("main.js-rama Alberto");
+  
+    
+
+}
+function foo2() {
+
+    console.log("main.js-rama luis");
+  
     
 
 }
